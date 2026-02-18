@@ -39,8 +39,6 @@ Raw CSV → MySQL ETL → Clean Tables → Power BI (Direct DB Connection via lo
 
 ##  Dashboard Preview
 
-## Dashboard Preview
-
 ### 🌍 Full Dashboard
 ![Full Dashboard](Screenshot/GLOBAL - 6.png)
 
