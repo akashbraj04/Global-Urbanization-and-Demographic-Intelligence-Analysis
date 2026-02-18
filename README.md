@@ -37,6 +37,15 @@ Raw CSV → MySQL ETL → Clean Tables → Power BI (Direct DB Connection via lo
 
 ---
 
+## Sample SQL Analysis Queries
+
+sql
+Top 10 most populated cities
+SELECT city, country, population
+FROM cities_clean
+ORDER BY population DESC
+LIMIT 10;
+
 ##  Dashboard Preview
 
 ### 🌍 Full Dashboard
