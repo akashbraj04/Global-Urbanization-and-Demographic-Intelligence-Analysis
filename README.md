@@ -46,6 +46,14 @@ FROM cities_clean
 ORDER BY population DESC
 LIMIT 10;
 
+## 📊 Power BI Report
+
+The interactive dashboard file is included in this repository:
+
+Global Urbanization Dashboard.pbix
+
+Open it in Power BI Desktop to explore the full interactive version.
+
 ##  Dashboard Preview
 
 ### 🌍 Full Dashboard
