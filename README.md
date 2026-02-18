@@ -1,4 +1,4 @@
-<img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/ea683033-26e7-4746-8ee6-e94ead06b67f" />#  Global Urbanization and Demographic Intelligence Analysis
+#  Global Urbanization and Demographic Intelligence Analysis
 
 ##  Project Overview
 An end-to-end data analytics project analyzing global cities and country-level demographic data using MySQL for data processing and Power BI for interactive visualization.
